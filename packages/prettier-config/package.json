@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./next-js": "./next.js"
+    "./next-js": "./next.js",
+    "./react-internal": "./react-internal.js"
   },
   "license": "MIT",
   "publishConfig": {

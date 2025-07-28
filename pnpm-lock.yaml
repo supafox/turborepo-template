@@ -215,6 +215,9 @@ importers:
       '@repo/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
+      '@repo/prettier-config':
+        specifier: workspace:*
+        version: link:../prettier-config
       '@repo/tailwind-config':
         specifier: workspace:*
         version: link:../tailwind-config
