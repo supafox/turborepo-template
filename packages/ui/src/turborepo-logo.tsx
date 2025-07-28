@@ -31,5 +31,5 @@ export const TurborepoLogo = () => {
         </linearGradient>
       </defs>
     </svg>
-  );
-};
+  )
+}

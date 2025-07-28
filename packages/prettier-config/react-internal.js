@@ -1,5 +1,5 @@
 /** @type {import('prettier').Config} */
-export const nextConfig = {
+export const reactInternalConfig = {
     endOfLine: "lf",
     semi: false,
     singleQuote: false,
